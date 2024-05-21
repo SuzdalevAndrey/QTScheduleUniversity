@@ -1,0 +1,14 @@
+release/clientmanager.o
+release/databasemanagerauth.o
+release/databasemanagerclient.o
+release/databasemanagerschedule.o
+release/main.o
+release/server.o
+release/basedata.o
+release/authanswer.o
+release/authrequest.o
+release/scheduleforday.o
+release/scheduleforweek.o
+release/userinfo.o
+release/userlist.o
+release/moc_server.o

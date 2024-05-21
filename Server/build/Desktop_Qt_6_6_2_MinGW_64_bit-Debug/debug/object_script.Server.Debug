@@ -1,0 +1,14 @@
+debug/clientmanager.o
+debug/databasemanagerauth.o
+debug/databasemanagerclient.o
+debug/databasemanagerschedule.o
+debug/main.o
+debug/server.o
+debug/basedata.o
+debug/authanswer.o
+debug/authrequest.o
+debug/scheduleforday.o
+debug/scheduleforweek.o
+debug/userinfo.o
+debug/userlist.o
+debug/moc_server.o
